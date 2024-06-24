@@ -232,7 +232,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/TopGuru777/LinkedIn-Clone.git
+  git clone https://github.com/TopGuru777/linkedin-clone-nextjs.git
 ```
 
 change directory
@@ -299,4 +299,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Project Link: [https://github.com/TopGuru777/LinkedIn-Clone.git](https://github.com/TopGuru777/linedin-clone-nextjs.git)
+Project Link: [https://github.com/TopGuru777/linkedin-clone-nextjs.git](https://github.com/TopGuru777/linedin-clone-nextjs.git)
