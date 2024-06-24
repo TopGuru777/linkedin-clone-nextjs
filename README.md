@@ -11,22 +11,15 @@ LinkedIn Clone with React (Next.js, Tailwind CSS, Firebase v9, Recoil, Image Upl
 
 <!-- Badges -->
 
-<a href="https://linked-in-clone-liard.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/SashenJayathilaka/LinkedIn-Clone.svg)
-![](https://img.shields.io/github/stars/SashenJayathilaka/LinkedIn-Clone.svg)
-![](https://img.shields.io/github/issues/SashenJayathilaka/LinkedIn-Clone)
-![](https://img.shields.io/github/last-commit/SashenJayathilaka/LinkedIn-Clone)
-
 
 <h4>
     <a href="https://linked-in-clone-liard.vercel.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/LinkedIn-Clone/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/TopGuru777/linkedin-clone-nextjs/blob/master/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/LinkedIn-Clone/issues">Report Bug</a>
+    <a href="https://github.com/TopGuru777/linkedin-clone-nextjs/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/LinkedIn-Clone/issues">Request Feature</a>
+    <a href="https://github.com/TopGuru777/linkedin-clone-nextjs/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -229,7 +222,7 @@ export default MyApp
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/LinkedIn-Clone/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
+<a href="https://github.com/TopGuru777/linkedin-clone-nextjs/blob/master/package.json" target="_blank">🔶 Dependency Info</a>
 
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -239,7 +232,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/LinkedIn-Clone.git
+  git clone https://github.com/TopGuru777/LinkedIn-Clone.git
 ```
 
 change directory
@@ -306,8 +299,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## :handshake: Contact
-
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
-
-Project Link: [https://github.com/SashenJayathilaka/LinkedIn-Clone.git](https://github.com/SashenJayathilaka/LinkedIn-Clone.git)
+Project Link: [https://github.com/TopGuru777/LinkedIn-Clone.git](https://github.com/TopGuru777/linedin-clone-nextjs.git)
